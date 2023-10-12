@@ -5,3 +5,4 @@
 4.  CSS3 Flex 20 challenges
 5. Responsive Web Design 10 challenges
 6. Project: Responsive Design Conversion
+7. Bootstrap 30 challenge
