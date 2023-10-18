@@ -39,6 +39,7 @@ Also known as client-side development is the practice of producing HTML, CSS and
 8. Project: Bootstrap Design Conversion
 9. JavaScript 50 challenge
 10. JavaScript ES6 20 challenge
+11. jQuery 19 challenge
 
 ## What you will build it from the ground up
 
