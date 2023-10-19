@@ -1,0 +1,30 @@
+/* Styles for h1 tag */
+h1 {
+    color: #007bff; /* Change the color to your preference */
+    font-size: 36px; /* Change the font size to your preference */
+    font-weight: bold; /* Set font weight to bold or normal */
+    text-align: center; /* Align text to center, left, right, or justify */
+}
+
+/* Styles for h2 tag */
+h2 {
+    color: #ff5733; /* Change the color to your preference */
+    font-size: 24px; /* Change the font size to your preference */
+    font-weight: bold; /* Set font weight to bold or normal */
+    text-align: left; /* Align text to center, left, right, or justify */
+}
+
+/* Styles for p tag */
+p {
+    color: #333; /* Change the color to your preference */
+    font-size: 16px; /* Change the font size to your preference */
+    line-height: 1.5; /* Adjust line height for better readability */
+    text-align: justify; /* Align text to center, left, right, or justify */
+    margin-bottom: 20px; /* Set margin at the bottom of the paragraph */
+    font-size: large;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
