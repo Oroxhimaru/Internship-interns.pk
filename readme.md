@@ -31,16 +31,19 @@ Also known as client-side development is the practice of producing HTML, CSS and
 
 1. HTML 50 challenges.
 2. CSS 100 challenges.
-3. Project: HTML/CSS Conversion
-4.  CSS3 Flex 20 challenges
-5. Responsive Web Design 10 challenges
-6. Project: Responsive Design Conversion
-7. Bootstrap 30 challenge
-8. Project: Bootstrap Design Conversion
-9. JavaScript 50 challenge
-10. JavaScript ES6 20 challenge
-11. jQuery 19 challenge
-12. Project: jQuery based App Challenge
+3. Project: HTML/CSS Conversion.
+4.  CSS3 Flex 20 challenges.
+5. Responsive Web Design 10 challenges.
+6. Project: Responsive Design Conversion.
+7. Bootstrap 30 challenge.
+8. Project: Bootstrap Design Conversion.
+9. JavaScript 50 challenge.
+10. JavaScript ES6 20 challenge.
+11. jQuery 19 challenge.
+12. Project: jQuery based App Challenge.
+13. PHP 50 challenges.
+14. WordPress Project.
+
 
 ## What you will build it from the ground up
 
